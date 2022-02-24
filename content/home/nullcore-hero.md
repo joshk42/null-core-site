@@ -3,6 +3,7 @@ widget: hero
 widget_id: nullcore-hero
 headless: true
 weight: 10
+title: null.core
 active: true
 design:
   columns: "1"
