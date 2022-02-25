@@ -2,7 +2,7 @@
 title: Test Post
 date: 2022-02-24T23:43:53.248Z
 draft: false
-featured: false
+featured: true
 image:
   filename: 441-4419365_mr-satan-png-satan-dragon-ball-png.png
   focal_point: Smart
